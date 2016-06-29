@@ -1,0 +1,5 @@
+@include('common.bootstrap')
+@yield('header')
+@yield('bootstrap')
+@yield('content')
+@yield('footer')
